@@ -1,5 +1,3 @@
 # Headline
 
-!> An awesome project.
-
-## test Headline
+> An awesome project.
