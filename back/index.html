@@ -17,26 +17,28 @@
   <div id="app">加载中</div>
   <script>
     window.$docsify = {
-      name: '顺桥国际转运',
-      nameLink: {
-          '/':'/'
-     },
+      name: 'docsify',
+      nameLink: 'http:www.guiyiyi.com',
       auto2top: true,
       executeScript: true,
       loadSidebar: true,
       loadNavbar: true,
       mergeNavbar: true,
-      maxLevel: 5,
-      subMaxLevel: 9999,
+      maxLevel: 4,
+      subMaxLevel: 3,
 
       //搜索配置
       search: {
+        noData: {
+          '/': 'No results!'
+        },
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
-        placeholder: '输入关键字，快速寻找答案 🔍',
-        noData: 'No Results! 😞',
-        depth: 6,
-    }
- }
+        placeholder: {
+          '/': 'Search'
+        }
+      }
+  }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>

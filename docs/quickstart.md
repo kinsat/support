@@ -1,96 +1,27 @@
-# Quick start
+# 开始使用
 
-It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
+## 货币单位
+除非特别说明，任何关于费用的计价单位均为中国法定货币单位“元”。
 
-```bash
-npm i docsify-cli -g
-```
-!> 检索数字<br />
+## 结算汇率
+使用线路目的地国家银行每月19号的人民币即日汇率卖出价格，每月19号调整一次。
 
-![加载图片](/images/test.png "这是小图片")
-## Initialize
+| 银行 | 汇率 | 说明 |
+| --- | --- | --- |
+| [台湾银行](https://rate.bot.com.tw/xrt?Lang=zh-CN) | 4.573 | NTD |
 
-If you want to write the documentation in the `./docs` subdirectory, you can use the `init` command.
+## 发票开具
+国内收取的各类费用及在目的地国发生的杂项费用例如仓储费，非属目的地国课税范围，免开统一发票。
 
-```bash
-docsify init ./docs
-```
+## 服务理念
+我们的服务理念致力于提供一个便捷、高效的企业商务或个人活动的国内转运环境，实际能提供的服务不限于网站所列出项目，后续我们将不断完善更新。
 
-## Writing content
+## 工作时间
+**14点前付款当天出货**
+工作时间 
 
-After the `init` is complete, you can see the file list in the `./docs` subdirectory.
+周一至周五：08：00 至 20：00
 
-* `index.html` as the entry file
-* `README.md` as the home page
-* `.nojekyll` prevents GitHub Pages from ignoring files that begin with an underscore
+周六休息： 只收货不发货
 
-You can easily update the documentation in `./docs/README.md`, of course you can add [more pages](more-pages.md).
-
-## Preview your site
-
-Run the local server with `docsify serve`. You can preview your site in your browser on `http://localhost:3000`.
-
-```bash
-docsify serve docs
-```
-
-?> For more use cases of `docsify-cli`, head over to the [docsify-cli documentation](https://github.com/docsifyjs/docsify-cli).
-
-## Manual initialization
-
-If you don't like `npm` or have trouble installing the tool, you can manually create `index.html`:
-
-```html
-<!-- index.html -->
-
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
-</head>
-<body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      //...
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-</body>
-</html>
-```
-
-If you installed python on your system, you can easily use it to run a static server to preview your site.
-
-```bash
-cd docs && python -m SimpleHTTPServer 3000
-```
-
-## Loading dialog
-
-If you want, you can show a loading dialog before docsify starts to render your documentation:
-
-```html
-  <!-- index.html -->
-
-  <div id="app">Please wait...</div>
-```
-
-You should set the `data-app` attribute if you changed `el`:
-
-```html
-  <!-- index.html -->
-
-  <div data-app id="main">Please wait...</div>
-
-  <script>
-    window.$docsify = {
-      el: '#main'
-    }
-  </script>
-```
-
-Compare [el configuration](configuration.md#el).
+周日：10：00 至 17：00
