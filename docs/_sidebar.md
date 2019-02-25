@@ -17,7 +17,6 @@
 
 - 政策与规则
 
-  - [禁运物品](forbiddengoods.md)
   - [服务协议](serviceagreement.md)
   - [Cookie政策](cookiepolicy.md)
   - [隐私政策](provicypolicy.md)

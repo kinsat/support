@@ -8,7 +8,7 @@
 
 | 银行 | 汇率 | 说明 |
 | --- | --- | --- |
-| [台湾银行](https://rate.bot.com.tw/xrt?Lang=zh-CN) | 4.573 | NTD |
+| [台湾银行](https://rate.bot.com.tw/xrt?Lang=zh-TW) | 4.573 | NTD |
 
 ## 发票开具
 国内收取的各类费用及在目的地国发生的杂项费用例如仓储费，非属目的地国课税范围，免开统一发票。
