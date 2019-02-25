@@ -1,7 +1,2 @@
 - Translations
-  - [English](/)
-  - [中文](/zh-cn/)
-
-- Translations2
-  - [English](/)
-  - [中文](/zh-cn/)
+  - [简体中文](/zh-cn/)

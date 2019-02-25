@@ -6,4 +6,4 @@
 
 您可以协助我们改善帮助文档的准确与时效性，或使其变得更加通俗易懂。
 
-我们感激您通过 [在线提问](http://www.guiyiyi.com) 或 [发送邮件: customerservice@guiyiyi.com](mailto:customerservice@guiyiyi.com) 给我们的每一次反馈。
+我们感激您通过 [吐槽](https://support.qq.com/products/54038) 或[发送邮件: customerservice@guiyiyi.com](mailto:customerservice@soarsq.com) 给我们的每一次反馈。
