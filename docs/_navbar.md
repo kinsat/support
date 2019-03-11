@@ -1,2 +1,2 @@
-- Translations
-  - [简体中文](/zh-cn/)
+- <img src="images/logo.png" width="31px;" align=center />　**[国际转运说明](/readme.md)**
+- **<font>[渠道操作细则](/requirement/readme.md)</font>**
