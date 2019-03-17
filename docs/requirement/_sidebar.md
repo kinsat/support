@@ -1,8 +1,6 @@
-- 特别提醒
+- 快速开始
 
-  - [重要通知](/requirement/quickstart.md)
-  - [工具与常识](/requirement/tools.md)
-  - [常用文件下载](/requirement/files.md)
+  - [渠道索引](/requirement/quickstart.md)
 
 - 国际专线
 
@@ -12,3 +10,8 @@
 - 国际快递
 
   - [国际快递](/requirement/express.md)
+
+- 自助支援
+
+  - [工具与常识](/requirement/tools.md)
+  - [常用文件下载](/requirement/files.md)
