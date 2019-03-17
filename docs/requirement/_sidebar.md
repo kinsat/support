@@ -1,6 +1,8 @@
 - 特别提醒
 
   - [重要通知](/requirement/quickstart.md)
+  - [工具与常识](/requirement/tools.md)
+  - [常用文件下载](/requirement/files.md)
 
 - 国际专线
 
