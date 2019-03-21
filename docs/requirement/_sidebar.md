@@ -13,5 +13,5 @@
 
 - 自助支援
 
-  - [工具与常识](/requirement/tools.md)
-  - [常用文件下载](/requirement/files.md)
+  - [集运小知识](/requirement/tools.md)
+  - [工具与文件](/requirement/files.md)
