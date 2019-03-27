@@ -13,7 +13,8 @@
 - 售后常见
 
   <!-- - [中转问题](transferques.md) -->
-  - [派送与签收](deliveryques.md)
+  - [跟踪查询](deliveryques.md)
+  - [签收注意](receiving.md)
 
 - 政策与规则
 
