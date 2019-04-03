@@ -25,7 +25,6 @@
     - [签收入库](arrivalques.md)
   - 中转
     - [跟踪查询](deliveryques.md)
-    - [中转问题](transferques.md)
     - [签收注意](receiving.md) 
 
 - 政策与规则
