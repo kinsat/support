@@ -1,6 +1,7 @@
 # 购物教学
 
-各类关于在国内购物的教学在youtube上汗牛充栋
+欢迎观看顺桥录制的集运系统教学
+
 <div style="max-width:640px; margin:0 auto 10px;" >
 <div 
 style="position: relative; 

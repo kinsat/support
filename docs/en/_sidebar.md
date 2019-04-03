@@ -9,7 +9,7 @@
 
 - 国际快递
 
-  - [国际快递](/requirement/express.md)
+  - [全球EMS](/requirement/GZEMS.md)
 
 - 自助支援
 
