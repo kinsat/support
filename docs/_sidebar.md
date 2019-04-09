@@ -3,7 +3,7 @@
 - 服务优势
 
   - 多样化运输方式
-    - [渠道索引](logistic_index.md)
+    - [集运方式索引](logistic_index.md)
     - 国际专线
       - [台湾空运专线](/direct_air_tw.md)
       - [台湾海运专线](/direct_sea_tw.md)
