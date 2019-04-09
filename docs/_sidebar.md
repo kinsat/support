@@ -8,7 +8,7 @@
       - [台湾空运专线](/air_tw.md)
       - [台湾海运专线](/sea_tw.md)
     - 国际快递
-      - [全球EMS](/GZEMS.md)
+      - [全球EMS](/EXPRESS-EMS.md)
   - [一站式信息系统](systemques.md)
 - 自助支援
 
