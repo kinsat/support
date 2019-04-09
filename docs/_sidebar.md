@@ -5,10 +5,10 @@
   - 多样化运输方式
     - [渠道索引](logistic_index.md)
     - 国际专线
-      - [台湾空运专线](/air_tw.md)
-      - [台湾海运专线](/sea_tw.md)
+      - [台湾空运专线](/direct_air_tw.md)
+      - [台湾海运专线](/direct_sea_tw.md)
     - 国际快递
-      - [全球EMS](/EXPRESS-EMS.md)
+      - [全球EMS](/express_ems.md)
   - [一站式信息系统](systemques.md)
 - 自助支援
 
