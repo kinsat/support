@@ -9,7 +9,7 @@
       - [台湾海运专线](/direct_sea_tw.md)
     - 国际快递
       - [全球EMS](/express_ems.md)
-  - [一站式信息系统](systemques.md)
+  - [集运系统功能特点](systemques.md)
 - 自助支援
 
   - 新手教学
