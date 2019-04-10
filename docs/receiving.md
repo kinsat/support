@@ -5,7 +5,7 @@
 - 对于客人的验货要求，某些地区的快递员会要求先签收后验货，此时如果发现外包装明显破损请直接拒收，并联系客服核实清楚原因后决定是否二次派送，外袋破损的常见原因是海关开箱查验所致。（注： *使用某些运输方式，二次派送将产生额外费用*）
 - 在追踪包裹时网上显示已签收，而您实际并未收到。如果是学校或私人公寓，因为快递人员无法直接进入，您可以先到常见的包裹临时存管处如”学校收发室“或”保安处“领取。如仍未找到，请您及时通知我们与快递公司核实。
 
-- 集运前仔细查看顺桥关于[易损、易碎、贵重物品类型](https://www.sf-express.com/HK/ZF/dynamic_function/more/Types_of_Vulnerable_Fragile_Valuable_Item/) 定义及服务条款;
+- 集运前仔细查看顺桥关于[易损、易碎、贵重物品类型](https://www.sf-express.com/HK/ZF/dynamic_function/more/Types_of_Vulnerable_Fragile_Valuable_Item/) 定义及[服务条款](https://soarsq.github.io/support/#/serviceagreement);
 
 > 为什么我收到的包裹有被拆开的痕迹?
 

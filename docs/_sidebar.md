@@ -1,5 +1,5 @@
-- [开始使用](quickstart.md) 
-  
+- [开始使用](quickstart.md)
+- [禁寄物品](banned.md)  
 - 服务优势
 
   - 多样化运输方式
@@ -15,7 +15,7 @@
   - 新手教学
     - [购物教学](shoppingcourse.md)
     - [转运教学](transitcourse.md)
-  - [集运小知识](tools.md)
+  - [跨境通关与关税（重要）](tax.md)
   - [工具与文件](files.md)
 
 - 常见问题
