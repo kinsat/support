@@ -8,7 +8,9 @@
       - [台湾空运专线](/direct_air_tw.md)
       - [台湾海运专线](/direct_sea_tw.md)
     - 国际快递
-      - [全球EMS](/express_ems.md)
+      - [国际EMS](/express_ems.md)
+    - 全球邮政
+      - [中邮E邮宝](/globalpost_cneub.md) 
   - [集运系统功能特点](systemques.md)
 - 自助支援
 
