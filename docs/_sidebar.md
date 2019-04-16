@@ -1,5 +1,6 @@
 - [开始使用](quickstart.md)
-- [禁寄物品](banned.md)  
+- [三分钟快速上手](http://www.soarsq.com/guide.html)
+<!-- - [禁寄物品](banned.md)   -->
 - 服务优势
 
   - 多样化运输方式
