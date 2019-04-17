@@ -11,6 +11,7 @@
       - [台湾海运快线](/direct_fs_tw.md)
     - 国际快递
       - [国际EMS](/express_ems.md)
+      - [香港DHL代理/5000](/express_agency_hkdhl.md)
     - 全球邮政
       - [中邮E邮宝](/globalpost_cneub.md) 
   - [集运系统功能特点](systemques.md)

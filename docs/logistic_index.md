@@ -12,6 +12,8 @@
 
 [国际EMS](express_ems.md)
 
+[香港DHL代理/5000](express_agency_hkdhl.md)
+
 #### 全球邮政
 
 [中邮 E 邮宝](globalpost_cneub.md)
