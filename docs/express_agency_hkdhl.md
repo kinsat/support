@@ -31,8 +31,9 @@
 
 | 常见附加费种类 | 描述          | 收费标准                | 收费单位 |
 |---------|-------------|---------------------|------|
-| 偏远附加费   | [下载自查](http://www.dhl.com/content/dam/downloads/g0/express/services/surcharges/dhl_express_remote_areas_cn_zh.pdf)        | 4.2/Kg+燃油附加费，最低200元 | 票    |
-| 税金预付    | 关税预付或第三方支付  | 137元                | 票    |
+| 偏远附加费   | [下载自查](http://www.dhl.com/content/dam/downloads/g0/express/services/surcharges/dhl_express_remote_areas_cn_zh.pdf)       | 4.2/Kg+燃油附加费，最低200元 | 票    |
+| 更改地址費   | 提取后更改地址     | 一般为90元/票，以实际地址为准    | 票    |
+| 税金预付手续费    | 委托顺桥代付税金  | 137元                | 票    |
 | 超长附加费   | 最长一边超过120cm | 810 * 燃油费率          | 件    |
 | 超重附加费   | 超过69Kg      | 810 * 燃油费率          | 件    |
 
