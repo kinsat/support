@@ -1,6 +1,6 @@
 - [开始使用](quickstart.md)
 - [三分钟快速上手](http://www.soarsq.com/guide.html)
-<!-- - [禁寄物品](banned.md)   -->
+- [禁寄物品](banned.md)  
 - 服务优势
 
   - 多样化运输方式
@@ -9,6 +9,7 @@
       - [台湾空运专线](/direct_air_tw.md)
       - [台湾海运全包专线](/direct_sea_tw.md)
       - [台湾海运快线](/direct_fs_tw.md)
+      - [马来西亚空运专线](/direct_air_my.md)
     - 国际快递
       - [国际EMS](/express_ems.md)
       - [香港DHL代理/5000](/express_agency_hkdhl.md)

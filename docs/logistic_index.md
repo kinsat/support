@@ -8,6 +8,12 @@
 
 [台湾海快专线](direct_fs_tw.md)
 
+> ##### 代运马来西亚
+
+[马来空运专线](direct_air_my.md)
+
+[马来海运快递](direct_sea_my.md)
+
 #### 国际快递
 
 [国际EMS](express_ems.md)
