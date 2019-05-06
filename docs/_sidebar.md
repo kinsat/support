@@ -6,7 +6,7 @@
   - 多样化运输方式
     - [集运方式索引](logistic_index.md)
     - 国际专线
-      - [台湾空运专线](/direct_air_tw.md)
+      - [台湾空运专线](direct_air_tw.md)
       - [台湾海运全包专线](/direct_sea_tw.md)
       - [台湾海运快线](/direct_fs_tw.md)
       - [马来西亚空运专线](/direct_air_my.md)
