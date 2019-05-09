@@ -2,9 +2,9 @@
 
 > ##### 集运台湾
 
-[台湾空运专线](air_tw.md)
+[台湾空运专线](direct_air_tw.md)
 
-[台湾海运全包专线](sea_tw.md)
+[台湾海运全包专线](direct_sea_tw.md)
 
 [台湾海快专线](direct_fs_tw.md)
 
