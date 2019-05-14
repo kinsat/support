@@ -1,5 +1,11 @@
 - [开始使用](quickstart.md)
-- [三分钟快速上手](http://www.soarsq.com/guide.html)
+- 自助支援
+
+  - [会员系统教学](transitcourse.md)
+    <!-- - [购物教学](shoppingcourse.md) -->
+  - [跨境通关与关税（重要）](tax.md)
+  - [工具与文件](files.md)
+
 - [普货特货分类](banned.md)  
 - 服务优势
 
@@ -17,13 +23,6 @@
     - 全球邮政
       - [中邮E邮宝](/globalpost_cneub.md) 
   - [集运系统功能特点](systemques.md)
-- 自助支援
-
-  - 新手教学
-    - [购物教学](shoppingcourse.md)
-    - [转运教学](transitcourse.md)
-  - [跨境通关与关税（重要）](tax.md)
-  - [工具与文件](files.md)
 
 - 常见问题
 

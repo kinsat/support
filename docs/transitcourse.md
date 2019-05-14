@@ -7,10 +7,17 @@ style="position: relative;
 width:100%;
 padding-bottom:56.25%; 
 height:0;">
-<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"  src="https://www.youtube.com/embed/waujsHpTUII" frameborder="0" allowfullscreen></iframe>
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/waujsHpTUII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"  src="https://youtu.be/54gOLK9Al1A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/waujsHpTUII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/54gOLK9Al1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>
 </div>
+<br />
+
+?> 部分內容可能过时，请以[官网教学](http://www.soarsq.com/guide.html)为准
+
 
 ### 如何通过航空主号追踪包裹
 贴文见痞客邦博客，欢迎观看
