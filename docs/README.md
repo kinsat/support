@@ -1,4 +1,4 @@
-<div style="padding: 12px 24px 0 30px;font-weight: bold;color: #858585;">最后更新日期: 2019-04-17</div>
+<div style="padding: 12px 24px 0 30px;font-weight: bold;color: #858585;">最后更新日期: 2019-07-09</div>
 
 <blockquote style="color:#000;font-size: 15px;background: #f8f8f8;padding: 5px 24px 5px 30px;border-bottom-right-radius: 2px;"><p style="font-weight: 100!important;">感谢您选用顺桥的服务，接下来您可能需要花一些时间用于了解顺桥的服务。</p></blockquote>
 
