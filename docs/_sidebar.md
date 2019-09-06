@@ -9,12 +9,11 @@
 - 服务优势
 
   - 多样化运输方式
-    - [集运方式索引](/logistic_index.md)
     - 台湾专线
       - [空运](/direct_air_tw.md)
       - [标准海运](/direct_sea_tw.md)
       - [海运快线](/direct_fs_tw.md)
-  - [集运系统功能特点](systemques.md)
+  - [会员系统使用提示](systemques.md)
 
 - 常见问题
 
@@ -23,7 +22,7 @@
     - [签收入库](arrivalques.md)
   - 中转
     - [跟踪查询](deliveryques.md)
-    - [签收注意](receiving.md) 
+    - [签收提示](receiving.md) 
 
 - 政策与规则
 
