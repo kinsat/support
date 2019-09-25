@@ -1,6 +1,6 @@
-# 购物教学
+# 購物教學
 
-欢迎观看顺桥录制的集运系统教学
+歡迎觀看順橋錄制的集運系統教學
 
 <div style="max-width:640px; margin:0 auto 10px;" >
 <div 

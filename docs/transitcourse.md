@@ -1,6 +1,6 @@
-## 淘宝集运教学
+## 淘寶集運教學
 
-### 顺桥会员系统主要功能演示
+### 順橋會員系統主要功能演示
 <div style="max-width:640px; margin:0 auto 10px;" >
 <div 
 style="position: relative; 
@@ -16,10 +16,11 @@ height:0;">
 </div>
 <br />
 
-?> 部分內容可能过时，请以[官网教学](http://www.soarsq.com/guide.html)为准
+?> 部分內容可能過時，請以[官網教學](http://www.soarsq.com/guide.html)為准
 
 
-### 如何通过航空主号追踪包裹
-贴文见痞客邦博客，欢迎观看
+### 如何通過航空主號追蹤包裹
+
+貼文見痞客邦博客，前往[查看](http://colinnie.pixnet.net/blog/post/280207552)
 
 [![順橋集運 痞客邦](https://pic.pimg.tw/colinnie/1553046340-4270830117_n.png "通過空運主單號跟蹤集運包裹")](http://colinnie.pixnet.net/blog/post/280207552)
