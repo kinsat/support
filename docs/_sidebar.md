@@ -3,7 +3,7 @@
 
   - [會員系統教學](transitcourse.md)
   - [會員系統使用提示](systemques.md)
-  - [產品屬性 | 品名申報](banned.md)  
+  - [通關風險 | 品名申報](banned.md)  
   - [跨境通關與關稅（重要）](tax.md)
   - [工具與文件](files.md)
 
