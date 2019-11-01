@@ -3,7 +3,7 @@
 
 基於以上實情，請您集運前特別了解以下內容：
 
-屬於&nbsp;[易損、易碎、貴重物品類型](https://www.sf-express.com/HK/ZF/dynamic_function/more/Types_of_Vulnerable_Fragile_Valuable_Item/)<font color="red">&nbsp;或&nbsp;外觀變形即喪失大部分使用價值的產品</font>，即使通過加固方式如紙條包裝、木架（木箱）裝訂時，仍無法保證避免損壞。無論是否購買遺失保險及特別加固服務，最高賠付金額不超過已付運費的20%，此類物品請您集運前務必要求寄件方加強包裝，慎重購買。
+屬於&nbsp;[易損、易碎、貴重物品類型](https://www.sf-express.com/HK/ZF/dynamic_function/more/Types_of_Vulnerable_Fragile_Valuable_Item/)<font color="red">&nbsp;或&nbsp;外觀變形即喪失大部分使用價值的產品</font>，即使通過加固如紙箱、木架（木箱）包裝時，仍無法保證避免損壞。無論是否購買遺失保險及特別加固服務，最高賠付金額不超過已付運費的20%，此類物品請您集運前務必要求寄件方加強包裝，慎重購買。
 
 - <font color="red">理賠金額僅用於抵扣運費使用</font>
 - <font color="red">已收取運費在任何情況下不再另外賠付</font>
