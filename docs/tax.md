@@ -58,3 +58,19 @@ height:0;">
 #### 網路購買國外貨物應注意事項
 
 前往[台灣財政部稅務網站](https://www.etax.nat.gov.tw/etwmain/front/ETW118W/CON/689/8502715194394663634)查看
+
+#### 易利委實名認證
+
+!> 海關公告於109年1月16日起,只要是未經實名認證,確認收貨人有委任的包裹,將無法通關進口
+
+請手機下載「易利委 EZ WAY」 APP實名認證
+
+認證後,請在順橋會員系統以下功能中編輯：
+
+集運出口->我的地址 添加與實名認定的收件人一致的集運收貨地址
+
+填寫已認證的名字與手機號,以便海關系統比對
+
+[安卓app下載](https://play.google.com/store/apps/details?id=com.tradevan.android.forms&hl=zh_TW?openExternalBrowser=1)  [蘋果app下載](https://apps.apple.com/tw/app/ez-way-%E6%98%93%E5%88%A9%E5%A7%94/id1127781971?openExternalBrowser=1)
+
+[認證教學影片](https://webfile.customs.gov.tw/001/Upload/2/relmovie/7852/178820/4f4d46f9-683a-4643-8b41-93d3cbca3126.mp4?openExternalBrowser=1) [海關相關公告](https://web.customs.gov.tw/cp.aspx?n=88C3016BD909355C&s=85ED2F52F5B7996C)
