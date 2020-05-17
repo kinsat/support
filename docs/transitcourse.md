@@ -19,8 +19,10 @@ height:0;">
 ?> 部分內容可能過時，請以[官網教學](http://www.soarsq.com/guide.html)為准
 
 
-### 如何通過航空主號追蹤包裹
+### 如何查詢包裹清關狀態
 
-貼文見痞客邦博客，前往[查看](http://colinnie.pixnet.net/blog/post/280207552)
+[點擊查看](https://support.qq.com/products/54038/faqs/59072)
 
-[![順橋集運 痞客邦](https://pic.pimg.tw/colinnie/1553046340-4270830117_n.png "通過空運主單號跟蹤集運包裹")](http://colinnie.pixnet.net/blog/post/280207552)
+<!-- 貼文見痞客邦博客，前往[查看](http://colinnie.pixnet.net/blog/post/280207552)
+
+[![順橋集運 痞客邦](https://pic.pimg.tw/colinnie/1553046340-4270830117_n.png "通過空運主單號跟蹤集運包裹")](http://colinnie.pixnet.net/blog/post/280207552) -->
