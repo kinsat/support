@@ -1,4 +1,4 @@
-<div style="padding: 12px 24px 0 30px;font-weight: bold;color: #858585;">最後更新日期: 2020-01-11</div>
+<div style="padding: 12px 24px 0 30px;font-weight: bold;color: #858585;">最後更新日期: 2020-6-18</div>
 
 <blockquote style="color:#000;font-size: 15px;background: #f8f8f8;padding: 5px 24px 5px 30px;border-bottom-right-radius: 2px;"><p style="font-weight: 100!important;">感謝您選用順橋的服務，接下來您可能需要花一些時間用於了解順橋的服務。</p></blockquote>
 
